@@ -1,7 +1,7 @@
-1. After downloading, unzip tesview.zip and launch MATLAB. Then set MATLAB path. Choose "Add with subfolders. ".
+1. After downloading tesview.zip, unzip the file and launch MATLAB. Then set MATLAB path. Choose "Add with subfolders. ".
 2. Navigate to the tesview directory.
 3. Enter "tesview" in the command window to activate the toolbox.
-4. Choose a head model depending on your need.
+4. Choose a head model depending on your need. Currently, four models are built in the toolbox. To include more age-stratified templates, please download template_HCP.zip for head models of the white and template_CH.zip for models of the Asian, unzip the packages, and copy the template folders to the tesview/template directory.
 5. Click "Add an electrode" to add electrodes.
 6. Click "Remove an electrode" to remove redundant electrodes.
 7. Set position and current strength for each electrode. Note that the summed currents should be zero.
