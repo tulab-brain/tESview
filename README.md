@@ -1,4 +1,4 @@
-1. After downloading, unzip tesview.rar and launch MATLAB. Then set MATLAB path. Choose "Add with subfolders. ".
+1. After downloading, unzip tesview.zip and launch MATLAB. Then set MATLAB path. Choose "Add with subfolders. ".
 2. Navigate to the tesview directory.
 3. Enter "tesview" in the command window to activate the toolbox.
 4. Choose a head model depending on your need.
