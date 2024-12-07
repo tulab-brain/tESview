@@ -8,4 +8,5 @@
 8. Click "OK" to start computing. The settings will be shown in the command window upon confirmation.
 9. 1-2 minutes later, windows on the right will show the resulting electric field. Please click on the images to navigate through the volume. Numbers above the windows indicate the coordinates and the intensity value of the selected voxel.
 10. Remove all the existing electrodes to activate the edit box "More Electrodes". For montages involving more than six electrodes, please manually input montage settings here and click "OK". Make sure that the inputs follow the format: 'electrode1',intensity1,'electrode2',intensity2,...
+
 If you have any other questions or wish to join our community, feel free to contact us via tulabpsych@163.com. Thank you for your support.
