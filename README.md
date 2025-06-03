@@ -22,21 +22,24 @@ Enter the radius (mm) of the spherical region in the "Radius" field.
 c) Predefined ROI: Currently supports the AAL3 and BN246 atlases.
 Set the ROI label (refer to the Label.xlsx file for corresponding brain region names).
 Multiple regions can be selected (use commas to separate labels, and colons to specify a range of labels).
+
 Example:
+
 Select "Predefined ROI – AAL3".
 To calculate all left-hemisphere regions defined by AAL3:
 Label input:	1:2:168 
 To calculate the left and right precentral gyrus regions defined by AAL3:
 Label input:	1,2
-14. Calculating the Mean Intensity
+
+15. Calculating the Mean Intensity
 Select "Average". No additional parameters are needed.
 Click "Calculate". The "Output" box will display the mean electric field intensity (with standard deviation) across all voxels in the selected ROI.
 The indicator symbol will be placed at the center of the brain region with the smallest label value.
-15. Calculating Percentiles
+16. Calculating Percentiles
 Select "Percentile", and set a percentile rank (input a value between [0, 100]). (To find the maximum field strength point, set the percentile to 100.)
 Click "Calculate". The "Output" box will show the corresponding percentile value E(pct).
 A list of the 10 voxels closest to E(pct) in intensity will be displayed below, including their coordinates in individual space and electric field strengths.
-16. Reset Function
+17. Reset Function
 Click "Reset" to clear all data in the "Metrics" panel.
 
 
