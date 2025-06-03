@@ -26,9 +26,13 @@ Multiple regions can be selected (use commas to separate labels, and colons to s
 Example:
 
 Select "Predefined ROI – AAL3".
+
 To calculate all left-hemisphere regions defined by AAL3:
+
 Label input:	1:2:168 
+
 To calculate the left and right precentral gyrus regions defined by AAL3:
+
 Label input:	1,2
 
 15. Calculating the Mean Intensity
