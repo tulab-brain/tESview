@@ -47,8 +47,8 @@ A list of the 10 voxels closest to E(pct) in intensity will be displayed below, 
 Click "Reset" to clear all data in the "Metrics" panel.
 
 
-
-
+If you use tESview in your research, please cite:
+Ma, W., Wang, F., Yi, Y., Huang, Y., Li, X., Liu, Y.*, & Tu, Y.* (2024). Mapping the Electric Field of High-Definition Transcranial Electrical Stimulation Across the Lifespan. Science Bulletin.
 
 
 If you have any other questions or wish to join our community, feel free to contact us via tulabpsych@163.com. Thank you for your support.
